@@ -1,2 +1,2 @@
-# BK-JAIL-BOT
-BK JAIL BOT
+# Discord Kayıt Botu
+Discord Kayıt Botu Altyapısı v12
